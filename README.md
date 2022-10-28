@@ -13,6 +13,6 @@ Approach followed:
 
 
 
-# 🚀 Mission 2: Publish source code & Deployment
+# 🚀 Mission 2: Deployment
 
 # 🚀 Mission 3: Share URL
