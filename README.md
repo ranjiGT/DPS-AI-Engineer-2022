@@ -12,7 +12,7 @@ Approach followed:
 Analysis Dashboard
 =======================
 
-!(https://github.com/ranjiGT/DPS-AI-Engineer-2022/blob/dev/plots/Dashboard_page-0001.jpg)
+![](https://github.com/ranjiGT/DPS-AI-Engineer-2022/blob/dev/plots/Dashboard_page-0001.jpg)
 
 
 # 🚀 Mission 2: Deployment
