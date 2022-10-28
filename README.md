@@ -1,2 +1,2 @@
-# DPS-AI-Engineer-2022
+# Digital Product School AI Engineer 2022
 This is the repo for DPS AI Engineer 2022 Task
