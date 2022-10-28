@@ -18,4 +18,4 @@ Analysis Dashboard
 
 # 🚀 Mission 3: Share URL
 
-![Data](https://opendata.muenchen.de/dataset/monatszahlen-verkehrsunfaelle/resource/40094bd6-f82d-4979-949b-26c8dc00b9a7)
+[Data](https://opendata.muenchen.de/dataset/monatszahlen-verkehrsunfaelle/resource/40094bd6-f82d-4979-949b-26c8dc00b9a7)
