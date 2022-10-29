@@ -29,6 +29,8 @@ View the app [here](https://ranji-dps-2022.herokuapp.com/)
 
 ![](https://github.com/ranjiGT/DPS-AI-Engineer-2022/blob/dev/plots/Mission%203.png)
 
+API Testing done using [REQBIN](https://reqbin.com/)
+
 # Resources 
 
 [Data](https://opendata.muenchen.de/dataset/monatszahlen-verkehrsunfaelle/resource/40094bd6-f82d-4979-949b-26c8dc00b9a7) . [Application](https://ranji-dps-2022.herokuapp.com/)
