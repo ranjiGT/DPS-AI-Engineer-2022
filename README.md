@@ -17,6 +17,8 @@ Accident Analysis Dashboard
 
 # 🚀 Mission 2: Deployment
 
+Link to [Repo](https://github.com/ranjiGT/Heroku-DPS-ranji)
+
 For the model deployment a Flask application hosted on Heroku platform was developed.
 This application takes `Year` and `Month` as input and predicts the value.
 
