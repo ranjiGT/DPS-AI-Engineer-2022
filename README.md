@@ -23,6 +23,8 @@ This application takes `Year` and `Month` as input and predicts the value.
 
 View the app [here](https://ranji-dps-2022.herokuapp.com/)
 
-# 🚀 Mission 3: Share URL
 
-[Data](https://opendata.muenchen.de/dataset/monatszahlen-verkehrsunfaelle/resource/40094bd6-f82d-4979-949b-26c8dc00b9a7)
+# 🚀 Mission 3: Send Request to DPS endpoint via Heroku App
+
+
+[Data](https://opendata.muenchen.de/dataset/monatszahlen-verkehrsunfaelle/resource/40094bd6-f82d-4979-949b-26c8dc00b9a7) . [Application](https://ranji-dps-2022.herokuapp.com/)
