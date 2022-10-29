@@ -8,7 +8,7 @@ Approach followed:
 2. Data Visualization with Findings
 3. Model Building
 
-Analysis Dashboard
+Accident Analysis Dashboard
 =======================
 
 ![](https://github.com/ranjiGT/DPS-AI-Engineer-2022/blob/dev/plots/Dashboard_page-0001.jpg)
