@@ -8,7 +8,7 @@ Approach followed:
 2. Data Visualization with Findings
 3. Model Building
 
-Analysis Dashboard
+Accident Analysis Dashboard
 =======================
 
 ![](https://github.com/ranjiGT/DPS-AI-Engineer-2022/blob/dev/plots/Dashboard_page-0001.jpg)
@@ -16,6 +16,8 @@ Analysis Dashboard
 > From all the above plots it can be seen that most of the accidents in Munich are caused by Road accidents ("Verkehrsunfälle") followed by Escape accidents ("Fluchtunfälle") and least by Drink-and-Drive ("Alkoholunfälle") 
 
 # 🚀 Mission 2: Deployment
+
+Link to [Repo](https://github.com/ranjiGT/Heroku-DPS-ranji)
 
 For the model deployment a Flask application hosted on Heroku platform was developed.
 This application takes `Year` and `Month` as input and predicts the value.
@@ -29,6 +31,8 @@ View the app [here](https://ranji-dps-2022.herokuapp.com/)
 
 ![](https://github.com/ranjiGT/DPS-AI-Engineer-2022/blob/dev/plots/Mission%203.png)
 
+API Testing done using [REQBIN](https://reqbin.com/)
+
 # Resources 
 
-[Data](https://opendata.muenchen.de/dataset/monatszahlen-verkehrsunfaelle/resource/40094bd6-f82d-4979-949b-26c8dc00b9a7) . [Application](https://ranji-dps-2022.herokuapp.com/)
+[Data](https://opendata.muenchen.de/dataset/monatszahlen-verkehrsunfaelle/resource/40094bd6-f82d-4979-949b-26c8dc00b9a7) . [Build](https://github.com/ranjiGT/DPS-AI-Engineer-2022/blob/dev/modeling.ipynb) . [Application](https://ranji-dps-2022.herokuapp.com/) . [Test](https://reqbin.com/)
