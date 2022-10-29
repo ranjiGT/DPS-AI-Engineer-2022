@@ -26,7 +26,7 @@ View the app [here](https://ranji-dps-2022.herokuapp.com/)
 
 # 🚀 Mission 3: DPS API Testing
 
-![](https://github.com/ranjiGT/DPS-AI-Engineer-2022/blob/dev/plots/Mission 3.png)
+![](https://github.com/ranjiGT/DPS-AI-Engineer-2022/blob/dev/plots/Mission%203.png)
 
 # Resources 
 
