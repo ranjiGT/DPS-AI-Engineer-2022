@@ -19,7 +19,7 @@ Analysis Dashboard
 For the model deployment a Flask application hosted on Heroku platform was developed.
 This application takes `Year` and `Month` as input and predicts the value.
 
-![](https://github.com/ranjiGT/DPS-AI-Engineer-2022/blob/dev/plots/Deploy.png)
+![](https://github.com/ranjiGT/DPS-AI-Engineer-2022/blob/dev/plots/Deploy_1.png)
 
 
 # 🚀 Mission 3: Share URL
