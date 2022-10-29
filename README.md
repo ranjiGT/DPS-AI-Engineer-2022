@@ -33,4 +33,4 @@ API Testing done using [REQBIN](https://reqbin.com/)
 
 # Resources 
 
-[Data](https://opendata.muenchen.de/dataset/monatszahlen-verkehrsunfaelle/resource/40094bd6-f82d-4979-949b-26c8dc00b9a7) . [Application](https://ranji-dps-2022.herokuapp.com/)
+[Data](https://opendata.muenchen.de/dataset/monatszahlen-verkehrsunfaelle/resource/40094bd6-f82d-4979-949b-26c8dc00b9a7) . [Build](https://github.com/ranjiGT/DPS-AI-Engineer-2022/blob/dev/modeling.ipynb) . [Application](https://ranji-dps-2022.herokuapp.com/) . [Test](https://reqbin.com/)
