@@ -11,7 +11,7 @@ Approach followed:
 Accident Analysis Dashboard
 =======================
 
-![](https://github.com/ranjiGT/DPS-AI-Engineer-2022/blob/dev/plots/Dashboard_page-0001.jpg)
+![](https://github.com/ranjiGT/DPS-AI-Engineer-2022/blob/main/plots/Dashboard_page-0001.jpg)
 
 > From all the above plots it can be seen that most of the accidents in Munich are caused by Road accidents ("Verkehrsunfälle") followed by Escape accidents ("Fluchtunfälle") and least by Drink-and-Drive ("Alkoholunfälle") 
 
