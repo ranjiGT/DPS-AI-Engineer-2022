@@ -22,14 +22,14 @@ Link to [Repo](https://github.com/ranjiGT/Heroku-DPS-ranji)
 For the model deployment a Flask application hosted on Heroku platform was developed.
 This application takes `Year` and `Month` as input and predicts the value.
 
-![](https://github.com/ranjiGT/DPS-AI-Engineer-2022/blob/dev/plots/Deploy_1.png)
+![](https://github.com/ranjiGT/DPS-AI-Engineer-2022/blob/main/plots/Deploy_1.png)
 
 View the app [here](https://ranji-dps-2022.herokuapp.com/)
 
 
 # 🚀 Mission 3: DPS API Testing
 
-![](https://github.com/ranjiGT/DPS-AI-Engineer-2022/blob/dev/plots/Mission%203.png)
+![](https://github.com/ranjiGT/DPS-AI-Engineer-2022/blob/main/plots/Mission%203.png)
 
 API Testing done using [REQBIN](https://reqbin.com/)
 
