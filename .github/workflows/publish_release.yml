@@ -1,0 +1,25 @@
+name: "orca-release"
+
+on:
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - '.github/**'
+      - '.devcontainer/**'
+      - '.vscode/**'
+
+jobs:
+  orca-release:
+    timeout-minutes: 10
+    runs-on: [self-hosted, linux] # to use github-runners use "ubuntu-latest" instead
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Release
+        uses: rymndhng/release-on-push-action@master
+        with:
+          use_github_release_notes: true
+          bump_version_scheme: patch # https://github.com/rymndhng/release-on-push-action#how-do-i-change-the-bump-version-scheme-using-pull-requests
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
