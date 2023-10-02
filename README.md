@@ -2,7 +2,7 @@
 
 # 🚀 Mission 1: Create AI Model
 
-Approach followed:
+Perform the following steps -> Approach followed:
 
 1. Data Preparation and Modeling
 2. Data Visualization with Findings
